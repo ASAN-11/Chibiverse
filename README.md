@@ -1,3 +1,3 @@
-# Miniverse
+# Chibiverse
 
 Connecting Mini entitled projects.
